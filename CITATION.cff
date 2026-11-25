@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you use this lab, please cite the software and the relevant research.
+title: LTE-U Coexistence Lab
+type: software
+authors:
+  - name: LTE-U Coexistence Lab contributors
+version: 0.1.0
+license: MIT
+repository-code: https://github.com/henrivalle/lteu-coexistence-lab
+references:
+  - type: thesis
+    title: Alocação de recursos para redes LTE (Long Term Evolution) em bandas não-licenciadas
+    authors:
+      - family-names: Valle de Lima
+        given-names: Henrique
+    year: 2018
+    institution:
+      name: Universidade Federal de Goiás
+    url: https://repositorio.bc.ufg.br/tede/items/c5e3a766-3108-4456-8739-180398accbea
