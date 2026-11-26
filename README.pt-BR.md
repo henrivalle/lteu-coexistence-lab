@@ -4,6 +4,8 @@
 
 Explore como uma meta de disponibilidade observada afeta o número de slots de espectro não licenciado que um sistema LTE-U simulado pode planejar usar. O laboratório estima uma capacidade por canal a partir de um CSV com observações de slots livres. A execução usa a biblioteca padrão do Python 3.9 ou posterior.
 
+Para contribuir, escolha uma [tarefa para iniciantes](https://github.com/henrivalle/lteu-coexistence-lab/contribute) e execute a verificação rápida no [guia de contribuição](CONTRIBUTING.md).
+
 ```bash
 python3 -m lteu_lab examples/synthetic.csv --target 80
 python3 -m lteu_lab examples/synthetic.csv --target 95

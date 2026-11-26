@@ -4,6 +4,8 @@
 
 Explore how an empirical availability target affects the number of unlicensed-band slots a simulated LTE-U system can plan to use. The lab estimates a capacity for each channel using a CSV of free-slot observations. It runs on Python 3.9+ with the standard library.
 
+To contribute, pick a [beginner task](https://github.com/henrivalle/lteu-coexistence-lab/contribute) and run the quick check in the [contributing guide](CONTRIBUTING.md).
+
 ```bash
 python3 -m lteu_lab examples/synthetic.csv --target 80
 python3 -m lteu_lab examples/synthetic.csv --target 95
